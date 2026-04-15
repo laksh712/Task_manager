@@ -21,6 +21,11 @@ function App() {
       title: "Task 3",
       description: "Description 3",
     },
+    {
+      id: 4,
+      title: "Task 4",
+      description: "Description 4",
+    },
   ]);
 
   const editTask = (id) => {
